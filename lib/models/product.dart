@@ -26,7 +26,7 @@ List<Product> products = [
   ),
   Product(
     id: 5,
-    price: "Premium",
+    price: "Premiu",
     title: "Kaşar Sagopa",
     image: "assets/images/OP.png",
     description:
